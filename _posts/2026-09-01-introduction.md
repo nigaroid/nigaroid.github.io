@@ -1,12 +1,11 @@
 ---
-title: "Getting Started in Cybersecurity"
+title: "Placeholder Post"
 date: 2026-09-01 12:00:00 +0000
-categories: [Cybersecurity]
-tags: [ctf, basics, guide]
-description: A quick guide for beginners starting out in cybersecurity.
+categories: [Miscellaneous]
+tags: [misc]
+description: Just a placeholder post
 toc: true
 comments: true
-# Optional image header
 image:
   path: /assets/img/posts/cat.png
   alt: Article Header Image
